@@ -128,9 +128,7 @@
 
 <div align='center'>
 
-
-### **"Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...⚡**</b>
-
+![Captura de pantalla 2025-02-06 220533](https://github.com/user-attachments/assets/bfacfe7c-9fb7-48dc-adae-90a1624bd0db)
 
 
 <br>

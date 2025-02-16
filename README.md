@@ -116,7 +116,7 @@
   &emsp;
     <a href="#"><img alt = "Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%23FFA116.svg?style=plastic&logo=azure&logoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-%232EC866.svg?style=plastic&logo=amazon&web&serviceslogoColor=white" /></a>
+    <a href="#"><img alt = "Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-%234479A1.svg?style=plastic&logo=amazon&web&serviceslogoColor=white" /></a>
   &emsp;
     <a href="#"><img alt = "Ms Project" src="https://img.shields.io/badge/Ms%20Project-%2334A853.svg?style=plastic&logo=ms&projectlogoColor=white" /></a>
 

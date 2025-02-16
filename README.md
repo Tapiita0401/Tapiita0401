@@ -70,7 +70,7 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/POWER APPS & AUTOMATE%20-%231572B6.svg?style=plastic&logo=powerapps&automate3&logoColor=white">
+    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?&style=plastic&logo=PowerApps&Automate%20&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">

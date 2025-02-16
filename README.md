@@ -132,12 +132,6 @@
 </details>
 
 </br></br>
-
-	
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/Tapiita0401/Tapiita0401/blob/main/github_user_contribution.svg" alt = "Snake Game"/>
 	
 </p>
 
@@ -157,4 +151,7 @@
 <h1>Thank You! 🤵 </h1>
 <Br>
 
-
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align = "center">
+	<img src = "https://github.com/Tapiita0401/Tapiita0401/blob/main/github_user_contribution.svg" alt = "Snake Game"/>

@@ -1,14 +1,11 @@
 <h1 align="center"><b>Hola , Soy Adriano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <div style="display: flex; gap: 20px; align-items: center;">
-    <a href="https://docs.python.org/3/library/index.html">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
+    <a href="https://docs.python.org/3/library/index.html"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
     </a>
-    <a href="https://www.r-project.org/">
-        <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
+    <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
     </a>
-    <a href="https://www.google.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="100">
+    <a href="https://www.google.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="100">
     </a>
 </div>
 

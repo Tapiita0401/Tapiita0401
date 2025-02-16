@@ -63,22 +63,17 @@
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Visualization & Development Tools
-<p align="center"> 
-&emsp; 
-   <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?style=plastic&logo=microsoft%20excel&logoColor=white">
-  </a>   
+<p align="center">
+&emsp;
+  <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?style=plastic&logo=microsoft-excel&logoColor=white">
 &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="ACCESS" src="https://img.shields.io/badge/Microsoft%20Access%20-%23E34F26.svg?style=plastic&logo=Microsoft%20Access&logoColor=white">
-  </a> 
-&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="POWER BI" src="https://img.shields.io/badge/Power%20Bi-%23F7DF1E.svg?style=plastic&logo=Power%20Bi&logoColor=black">
-   </a>
-&emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?&style=plastic&logo=PowerApps&Automate%20&logoColor=white">
+    <img alt="ACCESS" src="https://img.shields.io/badge/Microsoft%20Access%20-%23E34F26.svg?style=plastic&logo=microsoft-access&logoColor=white">
   </a>
+&emsp;
+  <img alt="POWER BI" src="https://img.shields.io/badge/Power%20Bi-%23F7DF1E.svg?style=plastic&logo=power-bi&logoColor=black">
+&emsp;
+  <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?style=plastic&logo=microsoft-power-apps&logoColor=white">
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools

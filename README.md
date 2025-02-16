@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola , Soy Adriano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
+<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
 <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
 <img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3629539-3032225.png" alt="SQL Server" width="100">
 <img src="https://cdn-icons-png.flaticon.com/256/10405/10405883.png" alt="Pelota de Fútbol" width="100">

@@ -64,16 +64,21 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Visualization & Development Tools
 <p align="center">
-&emsp;
-  <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?style=plastic&logo=microsoft-excel&logoColor=white">
-&emsp;
-  <a href="https://www.python.org" target="_blank">
-    <img alt="ACCESS" src="https://img.shields.io/badge/Microsoft%20Access%20-%23E34F26.svg?style=plastic&logo=microsoft-access&logoColor=white">
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
+    <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?style=plastic&logo=microsoft-excel&logoColor=white" width="120" height="30">
   </a>
-&emsp;
-  <img alt="POWER BI" src="https://img.shields.io/badge/Power%20Bi-%23F7DF1E.svg?style=plastic&logo=power-bi&logoColor=black">
-&emsp;
-  <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?style=plastic&logo=microsoft-power-apps&logoColor=white">
+  &emsp;
+  <a href="https://www.microsoft.com/en-us/microsoft-365/access" target="_blank">
+    <img alt="ACCESS" src="https://img.shields.io/badge/Microsoft%20Access%20-%23E34F26.svg?style=plastic&logo=microsoft-access&logoColor=white" width="140" height="30">
+  </a>
+  &emsp;
+  <a href="https://powerbi.microsoft.com/" target="_blank">
+    <img alt="POWER BI" src="https://img.shields.io/badge/Power%20Bi-%23F7DF1E.svg?style=plastic&logo=power-bi&logoColor=black" width="100" height="30">
+  </a>
+  &emsp;
+  <a href="https://powerapps.microsoft.com/" target="_blank">
+    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?style=plastic&logo=microsoft-power-apps&logoColor=white" width="200" height="30">
+  </a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools

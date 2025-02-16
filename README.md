@@ -4,16 +4,23 @@
     <a href="https://docs.python.org/3/library/index.html">
         <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
     </a>
+    <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/256/4341/4341079.png" alt="Computadora Animada" width="100">
+    </a>
     <a href="https://www.r-project.org/">
         <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
     </a>
-    <a href="https://learn.microsoft.com/en-us/sql/sql-server/">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3629539-3032225.png" alt="SQL Server" width="100">
+    <a href="https://www.logitech.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logitech_logo.svg" alt="Logitech" width="100">
     </a>
-    <a href="https://www.apple.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="100">
+    <a href="https://www.google.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="100">
+    </a>
+    <a href="#">
+        <img src="https://cdn-icons-png.flaticon.com/256/1995/1995549.png" alt="Analista Animado" width="100">
     </a>
 </div>
+
 
 <!--  -->
 <p align="center">

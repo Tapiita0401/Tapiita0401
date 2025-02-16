@@ -105,7 +105,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/spyder-%23000000.svg?style=plastic&logo=spyder&logoColor=white" /></a>
+    <a href="#"><img alt="Spyder" src="https://img.shields.io/badge/Spyder-%23000000.svg?style=plastic&logo=spyder&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Rstudio" src="https://img.shields.io/badge/Rstudio-%2366595C.svg?&style=plastic&logo=Rstudio&logoColor=white" /></a>
   &emsp;

@@ -112,7 +112,7 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt = "Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%231F8ACB.svg?style=plastic&logo=google&cloudlogoColor=blue" /></a>	
+    <a href="#"><img alt = "Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%232370ED.svg?style=plastic&logo=google&cloudlogoColor=blue" /></a>	
   &emsp;
     <a href="#"><img alt = "Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%231F8ACB.svg?style=plastic&logo=azure&logoColor=black" /></a>
   &emsp;

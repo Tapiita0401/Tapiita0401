@@ -118,15 +118,12 @@
   &emsp;
     <a href="#"><img alt = "Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-%231F8ACB.svg?style=plastic&logo=google&cloudlogoColor=white" /></a>	
   &emsp;
-    <a href="#"><img alt = "Leetcode" src="https://img.shields.io/badge/leetcode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+    <a href="#"><img alt = "Microsoft Azure" src="https://img.shields.io/badge/Microsoft%20Azure-%23FFA116.svg?style=plastic&logo=microsoft&azurelogoColor=black" /></a>
   &emsp;
-    <a href="#"><img alt = "Huckerrank" src="https://img.shields.io/badge/hackerrank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=white" /></a>
+    <a href="#"><img alt = "Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-%232EC866.svg?style=plastic&logo=amazon&web&serviceslogoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt = "CodeChef" src="https://img.shields.io/badge/codechef-%235B4638.svg?style=plastic&logo=codechef&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Google" src="https://img.shields.io/badge/google-%234285F4.svg?style=plastic&logo=google&logoColor=white" /></a>
-  &emsp;
-    <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
+    <a href="#"><img alt = "Ms Project" src="https://img.shields.io/badge/Ms%20Project-%235B4638.svg?style=plastic&logo=ms&projectlogoColor=white" /></a>
+
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems

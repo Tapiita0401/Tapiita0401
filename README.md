@@ -31,7 +31,7 @@
 - 🔍 Experiencia en **Lean Six Sigma, Control Estadístico de Procesos (SPC) y Business Intelligence**.  
 - 🛠️ Habilidades en **SQL, Python (Pandas, NumPy, Matplotlib, Tkinter), R, Power BI, Minitab, Excel Avanzado**.  
 - 🚀 Busco oportunidades para aplicar mis conocimientos en **proyectos de alto impacto empresarial**. 
-- :boom: You can visit [MY WEBSITE](linkedin.com/in/adrianotapia/).
+- :boom: You can visit [MY WEBSITE](https://www.linkedin.com/in/adriano-tapia-7b8bba216/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me

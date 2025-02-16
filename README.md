@@ -72,11 +72,11 @@
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/POWERAPPS&AUTOMATE%20-%231572B6.svg?style=plastic&logo=powerapps&automate3&logoColor=white">
+    <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/POWER APPS & AUTOMATE%20-%231572B6.svg?style=plastic&logo=powerapps&automate3&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Access" src="https://img.shields.io/badge/access-%2361DAFB.svg?style=plastic&logo=Access&logoColor=black">
+    <img alt="Access" src="https://img.shields.io/badge/Access-%2361DAFB.svg?style=plastic&logo=Access&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

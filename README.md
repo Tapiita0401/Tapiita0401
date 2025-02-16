@@ -76,11 +76,11 @@
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="Access" src="https://img.shields.io/badge/Access-%2361DAFB.svg?style=plastic&logo=Access&logoColor=black">
+    <img alt="ACCESS" src="https://img.shields.io/badge/ACCESS-%2361DAFB.svg?style=plastic&logo=ACCESS&logoColor=black">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="PowerBi" src="https://img.shields.io/badge/PowerBi%20-%23F7DF1E.svg?style=plastic&logo=powerbi&logoColor=black">
+     <img alt="POWER BI" src="https://img.shields.io/badge/POWER BI%20-%23F7DF1E.svg?style=plastic&logo=POWERBI&logoColor=black">
    </a>
 </p>
 

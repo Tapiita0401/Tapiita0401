@@ -105,7 +105,7 @@
   &emsp;
     <a href="#"><img alt="Rstudio" src="https://img.shields.io/badge/Rstudio-%2366595C.svg?&style=plastic&logo=Rstudio&logoColor=white" /></a>
   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab%20-%232EC866.svg?&style=plastic&logo=colab%20&logoColor=white" /></a>
+    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab%20-%23FFA116.svg?&style=plastic&logo=colab%20&logoColor=white" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Cloud & Other Tools

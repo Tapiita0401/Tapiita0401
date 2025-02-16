@@ -80,6 +80,7 @@
     <img alt="POWER APPS & AUTOMATE" src="https://img.shields.io/badge/Power%20Apps%20&%20Automate-%232C2255.svg?&style=plastic&logo=PowerApps&Automate%20&logoColor=white">
   </a>
 </p>
+
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">

@@ -144,7 +144,8 @@
 
 <div align='center'>
 
-## <b>"Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...✨</b>
+## <b>	"Data-driven Industrial Engineer: 
+	Empowering decisions with analysis and optimization"...✨⚡</b>
 
 <br>
 

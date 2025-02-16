@@ -74,7 +74,7 @@
   </a> 
   &emsp;
   <a href="https://www.python.org" target="_blank">
-    <img alt="ACCESS" src="https://img.shields.io/badge/ACCESS-%2361DAFB.svg?style=plastic&logo=ACCESS&logoColor=black">
+    <img alt="ACCESS" src="https://img.shields.io/badge/ACCESS-%2361DAFB.svg?style=plastic&logo=ACCESS&logoColor=white">
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

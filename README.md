@@ -8,14 +8,6 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Tapiita0401&label=Profile%20views&color=0047AB&style=plastic?" alt="Tapiita0401" height=25px, width=160px/> 
-	<!---
-		<a href = "https://commits.top/Peru.html" target="_blank">
-			<img src="https://aktive.tk/Peru/Tapiita0401?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
-		</a>
-	-->
-	<a href = "https://commits.top/Peru.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Tapiita0401" target="_blank" height=25px, width=250px/> 
-	</a>
 
 </p>
 

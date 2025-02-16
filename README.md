@@ -10,7 +10,7 @@
     <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="120">
     </a>
     <a href="https://www.google.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="200">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 7rem; background-color:white"/>
     </a>
 </div>
 

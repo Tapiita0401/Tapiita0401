@@ -1,12 +1,29 @@
 <h1 align="center"><b>Hola , Soy Adriano </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
-<img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
-<img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3629539-3032225.png" alt="SQL Server" width="100">
-<img src="https://cdn-icons-png.flaticon.com/256/10405/10405883.png" alt="Pelota de Fútbol" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Escudo_del_Club_Alianza_Lima.svg" alt="Alianza Lima" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/66/HP_logo_2012.svg" alt="HP" width="100">
-<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="100">
+<div style="display: flex; gap: 20px; align-items: center;">
+    <a href="https://docs.python.org/3/library/index.html">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
+    </a>
+    <a href="https://www.r-project.org/">
+        <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
+    </a>
+    <a href="https://learn.microsoft.com/en-us/sql/sql-server/">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/sql-server-3629539-3032225.png" alt="SQL Server" width="100">
+    </a>
+    <a href="https://www.fifa.com/">
+        <img src="https://cdn-icons-png.flaticon.com/256/10405/10405883.png" alt="Pelota de Fútbol" width="100">
+    </a>
+    <a href="https://clubalianzalima.com.pe/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Escudo_del_Club_Alianza_Lima.svg" alt="Alianza Lima" width="100">
+    </a>
+    <a href="https://www.hp.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/HP_logo_2012.svg" alt="HP" width="100">
+    </a>
+    <a href="https://www.apple.com/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" alt="Apple" width="100">
+    </a>
+</div>
+
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Always+developing+my+skills..&hearts;++;Data-Driven+Industrial-Engineer,;Industrial+Engineering+Student,;Data+Analytics,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>

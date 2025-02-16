@@ -132,16 +132,10 @@
 
 
 <br>
-<Br>
-<hr>
-<Br>
-
 </br>
 	
 </p>
 
-<Br>
-<hr>
 <Br>
 <h1>A Little Joke at the End! 🤣</h1>
 <Br>

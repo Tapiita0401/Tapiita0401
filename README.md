@@ -27,13 +27,16 @@
 <br><br>
 
 - :🎓: Estudiante de Ingenieria Industrial con especialización en Data Analytics at [Universidad Privada de Ciencias Aplicada](https://www.upc.edu.pe/).
+- :📊: Apasionado por la **toma de decisiones basada en datos**, optimización de procesos y mejora continua.  
+- :🔍: Experiencia en **Lean Six Sigma, Control Estadístico de Procesos (SPC) y Business Intelligence**.  
+- :🛠️: Habilidades en **SQL, Python (Pandas, NumPy, Matplotlib, Tkinter), R, Power BI, Minitab, Excel Avanzado**.  
+- :🚀: Busco oportunidades para aplicar mis conocimientos en **proyectos de alto impacto empresarial**. 
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE](linkedin.com/in/adrianotapia/).
 <br>
 
 

@@ -133,11 +133,8 @@
 
 <br>
 
-  </p>
-</div>
-</details>
 
-</br></br>
+</br>
 	
 </p>
 

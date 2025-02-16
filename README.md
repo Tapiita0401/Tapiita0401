@@ -39,11 +39,11 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Data Visualization**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Excel](https://img.shields.io/badge/Excel%20-%23E34F26.svg?style=for-the-badge&logo=excek&logoColor=green)
+   ![PowerBi](https://img.shields.io/badge/PowerBi%20-%231572B6.svg?style=for-the-badge&logo=powerbi&logoColor=gold)
+   ![Rstudio](https://img.shields.io/badge/Rstudio%20-%23F7DF1E.svg?style=for-the-badge&logo=rstudio&logoColor=black)
 
 <br>
 

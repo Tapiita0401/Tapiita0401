@@ -122,6 +122,14 @@
   &emsp;
     <a href="#"><img alt = "Ms Project" src="https://img.shields.io/badge/Ms%20Project-%235B4638.svg?style=plastic&logo=ms&projectlogoColor=white" /></a>
 
+</p>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<br>
+<br>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -173,6 +181,7 @@
 
 </body>
 </html>
+
 
 	
 ## 🐍 A Snake Eating my Contributions Graph

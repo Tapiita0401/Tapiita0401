@@ -66,7 +66,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="EXCEL" src="https://img.shields.io/badge/EXCEL%20-%23E34F26.svg?style=plastic&logo=Excel&logoColor=white">
+   <img alt="EXCEL" src="https://img.shields.io/badge/Microsoft%20Excel%20-%2334A853.svg?style=plastic&logo=microsoft%20excel&logoColor=white">
   </a>   
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">

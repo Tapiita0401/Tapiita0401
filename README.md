@@ -4,20 +4,11 @@
     <a href="https://docs.python.org/3/library/index.html">
         <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
     </a>
-    <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/256/4341/4341079.png" alt="Computadora Animada" width="100">
-    </a>
     <a href="https://www.r-project.org/">
         <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">
     </a>
-    <a href="https://www.logitech.com/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logitech_logo.svg" alt="Logitech" width="100">
-    </a>
     <a href="https://www.google.com/">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="100">
-    </a>
-    <a href="#">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnocodestartup.io%2Fes%2Ftendencias-del-futuro-de-la-programacion-en-el-area-que-nunca-deja-de-crecer%2F&psig=AOvVaw0YE_Bp97L9VtPUACASj-my&ust=1739834029183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDiy4CpyYsDFQAAAAAdAAAAABAE" alt="Analista Animado" width="100">
     </a>
 </div>
 

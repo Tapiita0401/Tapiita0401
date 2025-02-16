@@ -144,13 +144,10 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>"Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...✨</b>
 
-</div>
 <br>
-<br>
-<br>
-<br>
+
 
 ---
 

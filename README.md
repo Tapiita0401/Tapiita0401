@@ -148,8 +148,7 @@
 <Br>
 <hr>
 <Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
+
 
 ## 🐍 A Snake Eating my Contributions Graph
 	

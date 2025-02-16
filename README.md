@@ -137,7 +137,7 @@
 </p>
 
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1>A Little Joke at the End! </h1>
 <Br>
   
 <img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
@@ -149,7 +149,7 @@
 <Br>
 
 
-## 🐍 A Snake Eating my Contributions Graph
+### 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/Tapiita0401/Tapiita0401/blob/main/github_user_contribution.svg" alt = "Snake Game"/>

@@ -26,7 +26,7 @@
 
 <br><br>
 
-- 🎓 Estudiante de Ingenieria Industrial con especialización en Data Analytics at [Universidad Privada de Ciencias Aplicada](https://www.upc.edu.pe/).
+- 🎓 Estudiante de Ingenieria Industrial con **especialización en Data Analytics** en la [Universidad Peruana de Ciencias Aplicada](https://www.upc.edu.pe/).
 - 📊 Apasionado por la **toma de decisiones basada en datos**, optimización de procesos y mejora continua.  
 - 🔍 Experiencia en **Lean Six Sigma, Control Estadístico de Procesos (SPC) y Business Intelligence**.  
 - 🛠️ Habilidades en **SQL, Python (Pandas, NumPy, Matplotlib, Tkinter), R, Power BI, Minitab, Excel Avanzado**.  

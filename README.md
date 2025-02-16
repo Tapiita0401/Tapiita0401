@@ -124,18 +124,15 @@
 <br>
 <br>
 
-<div align='center'>
-
-
-### "Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...⚡</b>
-
-
-
-<br>
-
-  </p>
+<div align='center' style="font-family: 'Montserrat', sans-serif; color: #333;">
+  <h1 style="font-size: 3rem; font-weight: bold; text-transform: uppercase; letter-spacing: 2px; color: #e67e22;">Data-driven Industrial Engineer</h1>
+  <p style="font-size: 1.5rem; font-style: italic; color: #666;">Empowering decisions with analysis and optimization</p>
+  <span style="font-size: 4rem; color: #e67e22;">⚡</span>
 </div>
-</details>
+
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+</style>
 
 </br></br>
 

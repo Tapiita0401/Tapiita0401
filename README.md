@@ -17,7 +17,7 @@
 
 - Toma de decisiones basadas en datos
 - Me gusta mucho el futbol
-- Aprendiendo de a pocos Machine Learning
+- Aprendiendo Machine Learning
 - Personal website [link](https://linkedin.com/in/adrianotapia/)
 - Abierto a oportunidades y retos en el mundo de los datos, este es mi [my resume](https://read.cv/0xabdulkhalid)
 

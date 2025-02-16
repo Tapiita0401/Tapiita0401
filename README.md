@@ -9,17 +9,17 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/Tapiita0401/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/Tapiita0401/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Tapiita0401/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Data Analyst
-- Watching football at spare time
-- Currently learning Machine Learning by Self
+- Toma de decisiones basadas en datos
+- Me gusta mucho el futbol
+- Aprendiendo de a pocos Machine Learning
 - Personal website [link](https://linkedin.com/in/adrianotapia/)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Abierto a oportunidades y retos en el mundo de los datos, este es mi [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
 
@@ -30,7 +30,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Lenguajes**:
     
     ![SQL](https://img.shields.io/badge/SQL%20-%232370ED.svg?style=for-the-badge&logo=sql&logoColor=white)
     ![R](https://img.shields.io/badge/R%20-%2300599C.svg?style=for-the-badge&logo=r%2B%2B&logoColor=white)
@@ -38,7 +38,7 @@
 
 <br>   
     
-- **Data Visualization**:
+- **Visualización de Datos**:
 
    ![Excel](https://img.shields.io/badge/Excel-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    ![Rstudio](https://img.shields.io/badge/rstudio%20-%231572B6.svg?style=for-the-badge&logo=rstudio&logoColor=gold)
@@ -52,7 +52,7 @@
     
 <br>
 
-- **Softwares and Tools**:
+- **Softwares y Herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)

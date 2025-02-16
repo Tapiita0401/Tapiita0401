@@ -5,9 +5,9 @@
 </p>
 <div style="display: flex; gap: 20px; align-items: center;">
     <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 7rem"/>
-    <a href="https://docs.python.org/3/library/index.html"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100"> </a>
-    <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="120"> </a>
-    <a href="https://www.google.com/"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="200">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100"> </a>
+    <img src="https://www.r-project.org/Rlogo.png" alt="R" width="120"> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="200">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 7rem; background-color:white"/> </a>
 </div>
 

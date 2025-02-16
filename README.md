@@ -82,7 +82,7 @@
 &emsp;
     <a href="#"><img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/></a>
 &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/ ></a>
+    <a href="#"><img src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logoColor=white&logo=https://upload.wikimedia.org/wikipedia/commons/d/d5/Oracle_logo.svg" /></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs

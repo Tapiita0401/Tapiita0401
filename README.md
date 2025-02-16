@@ -65,7 +65,7 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Visualization & Development Tools
 <p align="center"> 
 &emsp; 
-<a href="https://www.w3.org/html/" target="_blank"> 
+  <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="MINITAB" src="https://img.shields.io/badge/Minitab%20-%2334A853.svg?style=plastic&logo=minitab%20&logoColor=white">
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 

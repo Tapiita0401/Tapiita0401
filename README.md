@@ -127,7 +127,7 @@
 <div align='center'>
 
 
-### "Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...⚡</b>
+### **"Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...⚡**</b>
 
 
 

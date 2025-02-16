@@ -78,7 +78,7 @@
   </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="POWER BI" src="https://img.shields.io/badge/POWER BI%20-%23F7DF1E.svg?style=plastic&logo=POWERBI&logoColor=black">
+     <img alt="POWER BI" src="https://img.shields.io/badge/Power%20Bi-%23F7DF1E.svg?style=plastic&logo=Power%20Bi&logoColor=black">
    </a>
 </p>
 

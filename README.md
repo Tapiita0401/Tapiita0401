@@ -43,7 +43,7 @@
 
    ![Excel](https://img.shields.io/badge/Excel%20-%23E34F26.svg?style=for-the-badge&logo=excek&logoColor=green)
    ![PowerBi](https://img.shields.io/badge/PowerBi%20-%231572B6.svg?style=for-the-badge&logo=powerbi&logoColor=gold)
-   ![Rstudio](https://img.shields.io/badge/Rstudio%20-%23F7DF1E.svg?style=for-the-badge&logo=rstudio&logoColor=black)
+   ![Rstudio](https://img.shields.io/badge/Rstudio%20-%23F7DF1E.svg?style=for-the-badge&logo=rstudio&logoColor=blue)
 
 <br>
 

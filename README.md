@@ -40,7 +40,7 @@
     
 - **Data Visualization**:
 
-   ![Excel](https://img.shields.io/badge/Excel%20-%23E34F26.svg?style=for-the-badge&logo=excek&logoColor=green)
+   ![Excel](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
    ![Rstudio](https://img.shields.io/badge/rstudio%20-%231572B6.svg?style=for-the-badge&logo=rstudio&logoColor=gold)
    ![PowerBi](https://img.shields.io/badge/PowerBi%20-%23F7DF1E.svg?style=for-the-badge&logo=powerbi&logoColor=blue)
 

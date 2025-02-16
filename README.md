@@ -9,7 +9,7 @@
 <br>
 
 	
-## <picture><img src = "https://github.com/Tapiita0401/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre**
+# <picture><img src = "https://github.com/Tapiita0401/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/Tapiita0401/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 

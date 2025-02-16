@@ -122,28 +122,58 @@
   &emsp;
     <a href="#"><img alt = "Ms Project" src="https://img.shields.io/badge/Ms%20Project-%235B4638.svg?style=plastic&logo=ms&projectlogoColor=white" /></a>
 
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stylish Centered Text</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            padding: 20px;
+        }
+        h2 {
+            font-size: 2em;
+            font-weight: bold;
+            color: #333;
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+        }
+        .highlight {
+            color: #007bff;
+            font-style: italic;
+        }
+        .emoji {
+            font-size: 1.5em;
+        }
+        img {
+            width: 150px;
+            height: auto;
+            margin: 20px 0;
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+    <div class="container">
+        <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated GIF">
+        <h2>✨⚡ <span class="highlight">Data-driven Industrial Engineer:</span> <br> Empowering decisions with analysis and optimization... ✨⚡</h2>
+    </div>
 
-<div align='center'>
+</body>
+</html>
 
-
-## <b>	"Data-driven Industrial Engineer: Empowering decisions with analysis and optimization"...✨⚡</b>
-
-
-
-<br>
-
-  </p>
-</div>
-</details>
-
-</br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	

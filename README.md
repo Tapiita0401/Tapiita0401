@@ -4,6 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Always+developing+my+skills..&hearts;++;Data-Driven+Industrial-Engineer,;Industrial+Engineering+Student,;Data+Analytics,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <div style="display: flex; gap: 20px; align-items: center;">
+    <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
     <a href="https://docs.python.org/3/library/index.html"> <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" alt="Python" width="100">
     </a>
     <a href="https://www.r-project.org/"> <img src="https://www.r-project.org/Rlogo.png" alt="R" width="100">

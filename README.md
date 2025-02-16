@@ -17,7 +17,7 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="100">
     </a>
     <a href="#">
-        <img src="https://cdn-icons-png.flaticon.com/256/1995/1995549.png" alt="Analista Animado" width="100">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnocodestartup.io%2Fes%2Ftendencias-del-futuro-de-la-programacion-en-el-area-que-nunca-deja-de-crecer%2F&psig=AOvVaw0YE_Bp97L9VtPUACASj-my&ust=1739834029183000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJDiy4CpyYsDFQAAAAAdAAAAABAE" alt="Analista Animado" width="100">
     </a>
 </div>
 

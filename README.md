@@ -9,6 +9,7 @@
     <img src="https://www.r-project.org/Rlogo.png" alt="R" width="120"> </a>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" width="200">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 7rem; background-color:white"/> </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="100">
 </div>
 
 <br>
